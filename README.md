@@ -1,6 +1,6 @@
 # Wi-Bash OpenSim
 
-Ou l'on va développer les mondes virtuels déja existants de M. Guerlotté...
+Ou l'on va développer les mondes virtuels déja existants de Jérôme Guerlotté...
 
 ## Comment se loguer
 Le **campus virtuel de l'UA** est sur la grille francophone de l'association Francogrid.
